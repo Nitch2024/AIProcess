@@ -10,7 +10,7 @@ Gimp 3.0 python plugin to run external local AI processing tools and filters
 [SRMD by Nihui](https://github.com/nihui/srmd-ncnn-vulkan)  
 
 # Install
-1. Copy all the files into you Gimp plugins folder (%appdata%\GIMP\3.0\plug-ins)
+1. Copy all the files into Gimp plugins folder (%appdata%\GIMP\3.0\plug-ins)
 2. Run or restart Gimp
 
 # Usage
