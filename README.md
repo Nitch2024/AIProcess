@@ -2,12 +2,12 @@
 Gimp 3.0 python plugin to run external local AI processing tools and filters
 
 # Current supported tools
-[Real-CUGAN by Nihui](https://github.com/nihui/realcugan-ncnn-vulkan)
-[RealSR by Nihui](https://github.com/nihui/realsr-ncnn-vulkan)
-[Waifu2x by Nihui](https://github.com/nihui/waifu2x-ncnn-vulkan)
-[Real-ESRGAN by Xinntao](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)
-[Additional Real-ESRGAN weights by Nenotriple](https://github.com/Nenotriple/gimp_upscale)
-[SRMD by Nihui](https://github.com/nihui/srmd-ncnn-vulkan)
+[Real-CUGAN by Nihui](https://github.com/nihui/realcugan-ncnn-vulkan)  
+[RealSR by Nihui](https://github.com/nihui/realsr-ncnn-vulkan)  
+[Waifu2x by Nihui](https://github.com/nihui/waifu2x-ncnn-vulkan)  
+[Real-ESRGAN by Xinntao](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)  
+[Additional Real-ESRGAN weights by Nenotriple](https://github.com/Nenotriple/gimp_upscale)  
+[SRMD by Nihui](https://github.com/nihui/srmd-ncnn-vulkan)  
 
 # Install
 1. Copy all the files into you Gimp plugins folder (%appdata%\GIMP\3.0\plug-ins)
